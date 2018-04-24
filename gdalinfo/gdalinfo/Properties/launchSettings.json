@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "gdalinfo": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Gdal\\resources\\1.dwg\""
+    }
+  }
+}

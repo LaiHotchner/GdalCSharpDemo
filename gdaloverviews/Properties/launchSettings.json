@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "gdaloverviews": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Gdal\\resources\\HYP_LR\\HYP_LR.tif\" \"NEAREST\" 2 4 8 16 32"
+    }
+  }
+}

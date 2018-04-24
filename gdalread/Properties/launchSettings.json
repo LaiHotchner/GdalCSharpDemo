@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "gdalread": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Gdal\\resources\\HYP_LR\\HYP_LR.tif\" D:\\Gdal\\output\\output_6.png 6"
+    }
+  }
+}
