@@ -2,7 +2,7 @@
   "profiles": {
     "gdalinfo": {
       "commandName": "Project",
-      "commandLineArgs": "\"D:\\Gdal\\resources\\1.dwg\""
+      "commandLineArgs": "\"D:\\Gdal\\resources\\2.dwg\""
     }
   }
 }
