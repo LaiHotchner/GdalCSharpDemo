@@ -11,13 +11,13 @@
 
   <ItemGroup>
     <Reference Include="gdal_csharp">
-      <HintPath>..\..\..\Program Files\GDAL\csharp\gdal_csharp.dll</HintPath>
+      <HintPath>..\..\..\..\Program Files\GDAL\csharp\gdal_csharp.dll</HintPath>
     </Reference>
     <Reference Include="ogr_csharp">
-      <HintPath>..\..\..\Program Files\GDAL\csharp\ogr_csharp.dll</HintPath>
+      <HintPath>..\..\..\..\Program Files\GDAL\csharp\ogr_csharp.dll</HintPath>
     </Reference>
     <Reference Include="osr_csharp">
-      <HintPath>..\..\..\Program Files\GDAL\csharp\osr_csharp.dll</HintPath>
+      <HintPath>..\..\..\..\Program Files\GDAL\csharp\osr_csharp.dll</HintPath>
     </Reference>
   </ItemGroup>
 
